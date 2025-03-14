@@ -120,7 +120,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #8400ff !important;
+			color: #0a70c4 !important;
 		}
 
 		a img {
@@ -129,7 +129,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #9900ff;
+		color: #0a70c4;
 	}
 
 	i, em {
@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		h1 strong {
-			color: #8c00ff;
+			color: #0a70c4;
 			font-weight: 700;
 		}
 
@@ -1695,7 +1695,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #8c00ff;
+		background-color: #0a70c4;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1706,7 +1706,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #c671ff;
+			background-color: #4897d7;
 			color: #fff !important;
 		}
 
@@ -1715,7 +1715,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #cc00ff;
+			background-color: #0a70c4;
 			top: 1px;
 		}
 
