@@ -2114,6 +2114,16 @@ input, select, textarea {
 
 /* Articles */
 
+	video.image.featured {
+		width: 100%;
+		height: 215px;
+		object-fit: cover;
+		border-radius: 5px;
+		display: block;
+	}
+
+
+
 	body > article {
 		margin-bottom: 0;
 	}
